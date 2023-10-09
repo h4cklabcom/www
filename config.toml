@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
+baseURL = "https://www.h4cklab.com/"
+DefaultContentLanguage = "zh-cn" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "zh-cn"
 title = "A Hugo Site"
 copyright = "This is a customized copyright."
@@ -21,16 +21,16 @@ theme = "diary"
 [params]
 subtitle = "Themed by Diary."
 enableGitalk = false
-enableGiscus = true
+enableGiscus = false
 
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
-clarity = "abcdefghzd"
+#clarity = "abcdefghzd"
 
 # Twitter Card and Open Graph settings
-enableOpenGraph = true
-enableTwitterCards = true
-title = "My Blog" # will set 'og:site_name'
-description = "My HomePage Description"  # will set 'og:description'
+#enableOpenGraph = true
+#enableTwitterCards = true
+#title = "My Blog" # will set 'og:site_name'
+#description = "My HomePage Description"  # will set 'og:description'
 
 [params.gitalk]
   owner = "user"
