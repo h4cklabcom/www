@@ -1,7 +1,7 @@
 ---
-date: 2023-10-08T11:25:05-04:00
+date: 2023-10-11
 tags: [network,vpn]
-title: "网络接入"
+title: "VPN拨号"
 categories: H4ck Lab
 ---
 
