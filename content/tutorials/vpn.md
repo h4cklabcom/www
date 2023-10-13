@@ -11,9 +11,9 @@ categories: H4ck Lab
 
 ## 下载
 
-备用下载1：<https://file.h4cklab.com/>
+备用下载1：<https://file.h4cklab.com/软件/WireGuard>
 
-备用下载2：文件分享服务器，目录/Software/WireGuard
+备用下载2：文件分享服务器，目录 `/软件/WireGuard`
 
 ### Windows 安装
 

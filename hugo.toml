@@ -1,5 +1,7 @@
 baseURL = "https://www.h4cklab.com/"
-languageCode = 'zh-cn'
+languageCode = 'zh'
+DefaultContentLanguage = "zh" 
+copyright = "转载请标注来源"
 title = 'H4ck Lab'
 theme = 'diary'
 
@@ -24,3 +26,23 @@ weight = 5
 url = "https://1.writeups.cn/"
 name = "WP"
 weight = 6
+
+
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "perldoc"
+    tabWidth = 4
+
+[params]
+subtitle = "勇气力决心"
+enableGitalk = false
+enableGiscus = false
+
