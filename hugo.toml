@@ -5,7 +5,7 @@ copyright = "转载请标注来源"
 title = 'H4ck Lab'
 theme = 'diary'
 
-
+contentdir = 'content/posts'
 [[menu.main]]
 url = "/categories"
 name = "分类"

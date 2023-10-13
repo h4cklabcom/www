@@ -6,11 +6,10 @@ title: "WebGoat"
 categories: Computer Science
 ---
 
-实验室搭建环境：<http://192.168.186.54:8080/WebGoat/>
+实验室搭建环境：<http://192.168.186.54:9090/>
 
 # 简介
 
 # 搭建
 
 # 教程
-

