@@ -40,15 +40,39 @@ weight: 3
 ## B
 [Burp Suite]()
 
+## C
+## D
+## E
+## F
+## G
+## H
+## I
+## J
+## K
+## L
+## M
+
 ## N
 [Nmap]()  [Nuclei]()
+## O
+## P
+## Q
+## R
 
 ## S
 [SQLMap]()
 
+## T
+## U
+## V
+## W
+
 ## X
 [Xray]()
 
+## Y
+
+## Z
 
 
 # CTF
