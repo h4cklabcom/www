@@ -2,6 +2,8 @@
 date: 2023-10-11
 tags: [network,vpn]
 title: "VPN拨号"
+description: 使用WireGurad进行VPN拨号接入实验室网络
+featured_image: "/images/wireguard/wireguard.webp"
 categories: H4ck Lab
 ---
 

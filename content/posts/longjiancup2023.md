@@ -1,5 +1,6 @@
 ---
 title: "陇剑杯2023"
+description: 陇剑杯2023年线上初赛记录
 date: 2023-08-28
 featured_image: "/2023/08/28/longjian2023.webp"
 tags: ["writeup","陇剑杯"]

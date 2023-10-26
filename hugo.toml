@@ -4,6 +4,7 @@ DefaultContentLanguage = "zh"
 copyright = "转载请标注来源"
 title = 'H4ck Lab'
 theme = 'diary'
+paginate = 9
 
 contentdir = 'content'
 [[menu.main]]
@@ -26,7 +27,10 @@ weight = 5
 url = "https://1.writeups.cn/"
 name = "WP"
 weight = 6
-
+[[menu.main]]
+url = "mailto:i@domain.com"
+name = "联系"
+weight = 7
 
 
 [markup]
@@ -39,7 +43,7 @@ weight = 6
     lineNumbersInTable = true
     noClasses = true
     style = "perldoc"
-    tabWidth = 4
+    tabWidth = 5
 
 [params]
 subtitle = "勇气力决心"
